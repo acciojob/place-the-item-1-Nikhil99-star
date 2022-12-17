@@ -4,6 +4,7 @@
     height: 300px;
     width: 90vw;  
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 .holder .item{
     height: 200px;
