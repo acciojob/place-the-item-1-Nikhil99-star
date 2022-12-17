@@ -3,7 +3,7 @@
     background-color: lightblue;
     height: 300px;
     width: 90vw;  
-    justify-content: space-between;
+    flex-wrap: wrap;
 }
 .holder .item{
     height: 200px;
